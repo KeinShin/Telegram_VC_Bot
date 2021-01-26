@@ -801,5 +801,5 @@ async def users(client, message: Message):
     await message.reply_text(output)
 
 
-print("Bot Starting...\nFor Support Join https://t.me/PatheticProgrammers\n")
+print("Bot Starting...\nFor Support Join https://t.me/lightningsupport\n")
 app.run()
